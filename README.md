@@ -45,7 +45,7 @@
 <a href="https://github.com/Xuenew/PyTopicsApiExplore">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xuenew&repo=PyTopicsApiExplore&theme=buefy" />
 </a>
-<a href="https://github.com/Xuenew/Python_Spider_Al">
+<a href="https://github.com/Xuenew/Python_Spider_All">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xuenew&repo=Python_Spider_All&theme=buefy" />
 </a>
 
