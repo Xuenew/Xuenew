@@ -11,10 +11,8 @@
 
 - ⚡ Fun fact:喜欢看动漫，喜欢看小说，喜欢听音乐，喜欢看电影，喜欢做游戏
 
-![](./images/github-contribution-grid-snake.svg)
 
-
-[//]: # (<img align="right" src="https://github-readme-stats.vercel.app/api?username=Xuenew&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />)
+<img align="center" src="./images/github-contribution-grid-snake.svg">
 
 [![CSDN](https://img.shields.io/badge/CSDN-17c0eb?style=flat-square&logo=Telegram)](https://blog.csdn.net/weixin_41804512)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Xuenew)
@@ -38,7 +36,7 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx)
 ![Mysql](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=black)
 ![Elastic](https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=Elastic&logoColor=white)
-![Elastic](https://img.shields.io/badge/Cocoscrator?style=flat-square&logo=Elastic&logoColor=white)
+![](https://img.shields.io/badge/Cocos%20creator-blue.svg)
 
 |<img height="130px" src="https://github-readme-stats.vercel.app/api?username=Xuenew&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Xuenew's GitHub Stats">|<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xuenew&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">|
 
